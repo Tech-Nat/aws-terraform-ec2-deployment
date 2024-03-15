@@ -2,6 +2,9 @@
 
 This repository contains the Terraform configuration files for deploying an Amazon EC2 instance with specific requirements on AWS.
 
+![image](https://github.com/Tech-Nat/aws-terraform-ec2-deployment/assets/97749491/3c3d3da2-b9df-4ada-98d1-cf4a8c5c4275)
+
+
 ## Scenario
 
 The goal is to create an EC2 instance with the following specifications:
